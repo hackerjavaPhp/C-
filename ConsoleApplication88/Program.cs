@@ -42,7 +42,7 @@ namespace Exceptions
                     Console.WriteLine("{0} : {1}", de.Key, de.Value);
             }
 
-            // Delay.
+            // Delay. HEllO WOLRLD
             Console.ReadKey();
         }
     }
